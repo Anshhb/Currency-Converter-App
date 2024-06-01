@@ -21,12 +21,12 @@ To run this app locally, follow these steps:
    cd currency-converter-app
 
 2. **Install dependencies:**
-   ```sh
+
   flutter pub get
 
 
 3. **Install dependencies:**
-   ```sh
+
   flutter run
 
 
