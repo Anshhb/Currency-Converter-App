@@ -25,7 +25,7 @@ To run this app locally, follow these steps:
   flutter pub get
 
 
-3. **Install dependencies:**
+3. **Run the app:**
 
   flutter run
 
